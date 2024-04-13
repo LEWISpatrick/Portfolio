@@ -29,7 +29,7 @@ export const BusinessStarted = () => {
         <div className="text-center">
 
             <h1 className="pb-4 font-bold tracking-tight text text-5xl mt-20
-            lg:text-6xl">Business i've Started </h1>
+            lg:text-6xl">Business ive Started </h1>
             <div className="flex items-center justify-center">
                 <Separator className="mt-3 bg-slate-100/20 h-0.5 w-40"/>
             </div>

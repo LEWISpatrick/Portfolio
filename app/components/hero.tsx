@@ -16,9 +16,9 @@ export const Hero = () => {
                                     target="_blank">
                                     <span className="relative inline-flex items-center">
                                         <span className="tracking-normal text-primary-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out">
-                                            My Youtube
+                                            My Youtube {" "}
                                         </span>
-                                            -&gt;
+                                         -&gt;
                                     </span>
                                 </div>
                             </div>
