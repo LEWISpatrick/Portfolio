@@ -19,7 +19,7 @@ export const Calendly =() => {
             )}
             {showWidget && 
                 <InlineWidget 
-                    url="https://calendly.com/patricklewis2009/free-15-minute-call-with-a-marketing-professional" 
+                    url="https://calendly.com/patricklewis2009/coding-consultation" 
                     styles={{height: '1000px', borderRadius: "5px"}}
                     
                 />
