@@ -12,6 +12,7 @@ export const CodingVideos = () => {
             showinfo: 0,
             mute: 1,
             loop: 1,
+            start: 5163,
             width: '480',
             height: '270',
             className: 'rounded-xl'
@@ -27,8 +28,8 @@ export const CodingVideos = () => {
             </div>    
 
         <div className='flex justify-center'>
-            <div className='mt-10 grid sm:grid-cols-1 lg:grid-cols-2 gap-5'>
-                <Youtube opts={videoOption} videoId='HRfQGSnxReg&t'/>
+            <div className='mt-10 '>
+                <Youtube opts={videoOption} videoId='nXmS4BvUk1k'/>
 
             </div>
         </div>

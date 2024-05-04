@@ -3,7 +3,10 @@ import { ArrowRight } from 'lucide-react';
 import { Particles } from './particles';
 export const Hero = () => {
     return (
-        <div className="pt-20">
+        <div className="pt-40 pb-80">
+            <Particles className='absolute inset-0 -z-10'/>
+            <Particles className='absolute inset-0 -z-10'/>
+            <Particles className='absolute inset-0 -z-10'/>
             <Particles className='absolute inset-0 -z-10'/>
 
                 <div className="text-center px-8">

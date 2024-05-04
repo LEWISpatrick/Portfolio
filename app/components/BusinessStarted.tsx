@@ -8,7 +8,7 @@ export const BusinessStarted = () => {
             logo: '/BusinessBrander.svg',
             name: 'BusinessBrander',
             link: 'http://businessbrander.online/',
-            grossProfit: '$70K/GrossProfit',
+            grossProfit: '$0/GrossProfit',
         },
     ];
 

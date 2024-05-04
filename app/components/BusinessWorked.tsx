@@ -20,7 +20,7 @@ export const BusinessWorked = () => {
             logo: '/apple.jpeg',
             name: 'Apple',
             link: 'https://www.apple.com/',
-            jobTitle: 'janitor',
+            jobTitle: 'I HAVE NEVER WORKED HERE ITS JUST AN EXAMPLE',
             salary: '$40K/Year',
             
         },
@@ -28,7 +28,7 @@ export const BusinessWorked = () => {
             logo: '/google.webp',
             name: 'Google',
             link: 'https://www.google.com/',
-            jobTitle: 'janitor',
+            jobTitle: 'I HAVE NEVER WORKED HERE ITS JUST AN EXAMPLE',
             salary: '$100K/Year',
             
         },
@@ -36,7 +36,7 @@ export const BusinessWorked = () => {
             logo: 'microsoft.jpeg',
             name: 'Microsoft',
             link: 'https://www.microsoft.com/',
-            jobTitle: 'janitor',
+            jobTitle: 'I HAVE NEVER WORKED HERE ITS JUST AN EXAMPLE',
             salary: '$200K/Year',
             
         },
@@ -44,7 +44,7 @@ export const BusinessWorked = () => {
             logo: 'openAi.png',
             name: 'openAi',
             link: 'https://openai.com/',
-            jobTitle: 'janitor',
+            jobTitle: 'I HAVE NEVER WORKED HERE ITS JUST AN EXAMPLE',
             salary: '$500K/Year',
             
         },

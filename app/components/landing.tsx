@@ -9,6 +9,8 @@ import { BusinessWorked } from "./BusinessWorked"
 import { Calendly } from "./calendly"
 import { BusinessStarted } from "./BusinessStarted"
 import { Footer } from "./footer"
+import { Projects } from "./projects"
+
 export const Landing = () => {
     useEffect (() => {
         AOS.init({
@@ -31,9 +33,11 @@ export const Landing = () => {
             relative max-w-5xl min-h-screen px-4 mx-auto 
             sm:px-6 space-y-80" >
                 <Hero/>
-                <CodingVideos/>
+
+                <Projects/>
                 <BusinessWorked/>
                 <BusinessStarted/>
+                <CodingVideos/>
                 <Calendly/>
 
                 <Footer/>
