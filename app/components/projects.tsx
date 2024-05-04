@@ -67,7 +67,7 @@ export const Projects: React.FC = () => {
       setCurrent(api.selectedScrollSnap() + 1);
     });
     return () => {
-      unsubscribe();
+      unsubscribe
     };
   }, [api]);
 
